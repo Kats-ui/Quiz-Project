@@ -1,0 +1,1 @@
+This is a sample quiz game base on html, css and javascript
